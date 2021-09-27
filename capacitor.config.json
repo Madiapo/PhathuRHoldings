@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "phathurholdingapp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

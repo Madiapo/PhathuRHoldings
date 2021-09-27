@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "phathurholdings-3b7ab": {
+      "hosting": {
+        "app": [
+          "phathurholdings-3b7ab"
+        ]
+      }
+    }
+  }
+}

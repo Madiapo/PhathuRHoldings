@@ -1,0 +1,7 @@
+{
+  "name": "phathurholdingapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
